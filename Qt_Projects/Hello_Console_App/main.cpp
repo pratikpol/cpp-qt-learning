@@ -8,5 +8,5 @@ int main(int argc, char *argv[])
     qDebug() <<"Hello World!";
 
     //return a.exec();
-    return 0;
+    return 0;  //Use this line instead of return a.exec(); in simple program
 }
