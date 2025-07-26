@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\cpp-qt-learning\\CppBasics\\Function_Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D28205-9986-45CD-B1CD-7C416C124F4A}|Function_Tutorial\\Function_Tutorial.vcxproj|C:\\Users\\Asus\\cpp-qt-learning\\CppBasics\\Function_Tutorial\\Function_Tutorial\\Function_Tutorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82D28205-9986-45CD-B1CD-7C416C124F4A}|Function_Tutorial\\Function_Tutorial.vcxproj|solutionrelative:Function_Tutorial\\Function_Tutorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function_Tutorial.cpp",
+              "DocumentMoniker": "C:\\Users\\Asus\\cpp-qt-learning\\CppBasics\\Function_Tutorial\\Function_Tutorial\\Function_Tutorial.cpp",
+              "RelativeDocumentMoniker": "Function_Tutorial\\Function_Tutorial.cpp",
+              "ToolTip": "C:\\Users\\Asus\\cpp-qt-learning\\CppBasics\\Function_Tutorial\\Function_Tutorial\\Function_Tutorial.cpp",
+              "RelativeToolTip": "Function_Tutorial\\Function_Tutorial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-26T12:03:28.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
