@@ -1,0 +1,18 @@
+# Day 01 - Basics
+
+# Concepts Covered
+- Input / Output
+- Variables
+- Basic Arithmetic
+- Conditions
+
+# Problems Solved
+1. Add two numbers
+2. Find square of a number
+3. Check even or odd
+4. Find the largest of two numbers
+
+# What I Learned
+- How to take input using `cin`
+- How to structure simple logic
+- Importance of dry-running code
