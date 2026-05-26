@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 class Plane{
@@ -7,7 +6,7 @@ public:
     string brand;
     string model;
     int year;
-    Plane(string x, string y, int z);
+    Plane(string x, string y, int z); // Parameterized Constructor
 };
 
 Plane::Plane(string x, string y, int z) {
