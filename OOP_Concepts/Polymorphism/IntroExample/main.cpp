@@ -25,6 +25,6 @@ int main()
 
 
 
-//Its an example of function overloading, where function shared same name but different parameters and operations
+//Its an example of constructor overloading, where constructor shared same name but different parameters and operations
 //Poly means many or multiple
 //Morph means forms or shapes
