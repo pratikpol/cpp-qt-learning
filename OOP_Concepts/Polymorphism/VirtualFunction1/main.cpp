@@ -17,7 +17,10 @@ public:
 
 int main()
 {
-    Helicopter h1;
-    h1.landingGear();
-    return 0;
+     Helicopter h1;
+     h1.landingGear();
+     return 0;
 }
+
+// Above example is not true runtime polymorphism we can say its an example of function overriding
+// Checkout VirtualFunction2 example for runtime polymorphism.
