@@ -8,7 +8,7 @@ double withdraw(double balance);
 
 int main()
 {
-    double balance = 0;
+    double balance = 50000;
     int choice = 0;
     do{
         cout << "********************\n";
@@ -25,8 +25,10 @@ int main()
         case 1: showBalance(balance);
             break;
         case 2: balance += deposite();
+            showBalance(balance);
             break;
         case 3: balance -= withdraw(balance);
+            showBalance(balance);
             break;
         case 4: cout << "Thanks for visiting!\n";
             break;
@@ -40,12 +42,22 @@ int main()
 }
 
 void showBalance(double balance){
-
+    cout << "Your balance is: " << balance << endl;
 }
 
 double deposite(){
-    return 0;
+    double amount = 0;
+    cout << "Enter amount you want to deposite: \n";
+    cin >> amount;
+    cout << "Your account is deposited with rupees: "<< amount <<endl;
+
+    return amount;
 }
 double withdraw(double balance){
-    return 0;
+    double amount = 0;
+    cout << "Enter amount to be withdrawn: \n";
+    cin >> amount;
+    cout << "Your account is withdrawn with rupees: "<< amount << endl;
+
+    return amount;
 }
